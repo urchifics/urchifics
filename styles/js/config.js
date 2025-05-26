@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Urchifics",
-  url: "https://urchifics.neocities.org",
+  url: "https://urchifics.github.io/urchifics/index.html",
   description: `The official site of the Urchifics!`
 }
 
